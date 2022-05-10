@@ -2,20 +2,18 @@
 -
 - Many say I lack focus; I partially agree, but I'd like to counter that like being both marble and sculptor I'm still in the process of refinement.  
 -
-- I’m currently learning how to make engineering tools using Excel/VBA, Python the hard way, Git, effective time management, and how to talk to a stranger without coming off as an angry cynical android.
+- I’m currently learning how to make engineering tools using Excel/VBA, Python the hard way, Git, effective time management, and...
+* how to talk to a stranger without coming off as an angry cynical android.
 -
 -
 - I’m looking to collaborate on... Nothing right now. I have some individual projects I want to start/finish, too many in fact.
 - I don't have the requisite skills to effectively collaborate with strangers right now - but I am working on it.
 -
-- Tell you what - Come to me with your project and If I feel capable of helping... I may. Keep in mind you're dealing with an
-- arrogant, heartbroken almost bottom-grade coder. Cynical android remember?
+- Tell you what - Come to me with your project and If I feel capable of helping... I may. Keep in mind you're dealing with an arrogant, heartbroken almost bottom-grade coder. Cynical android remember?
 -
 -
 -
-- 📫 How to reach me - s.perez.perilla@gmail.com - <!--- or maybe you can send me a letter with one of those magical letter 
-- delivering birds I keep hearing about. Maybe we can figure out what makes them magic. Once we do we can bind the bird population
-- into the global economy, I don't like those free-loaders eating worms off private land /s ---> 
+- 📫 How to reach me - s.perez.perilla@gmail.com - <!--- or maybe you can send me a letter with one of those magical letter delivering birds I keep hearing about. Maybe we can figure out what makes them magic. Once we do we can bind the bird population into the global economy, I don't like those free-loaders eating worms off of private land. /s ---> 
 
 <!---
 SPerezPerilla/SPerezPerilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
