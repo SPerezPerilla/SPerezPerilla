@@ -1,13 +1,8 @@
 - Hi, I’m @SPerezPerilla I’m interested in physics, mathematics, aircraft, programming (self-evident), design, mythology, women, etc... 
 -
--
 - Many say I lack focus; I partially agree, but I'd like to counter that like being both marble and sculptor I'm still in the process of refinement.  
 -
--
--
-- I’m currently learning how to make engineering tools using Excel/VBA, Python the hard way, effective time management, and how to talk to a stranger without coming off as an angry cynical android.
--
--
+- I’m currently learning how to make engineering tools using Excel/VBA, Python the hard way, Git, effective time management, and how to talk to a stranger without coming off as an angry cynical android.
 -
 -
 - I’m looking to collaborate on... Nothing right now. I have some individual projects I want to start/finish, too many in fact.
