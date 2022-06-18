@@ -13,12 +13,12 @@ I’m currently making engineering tools using Excel/VBA and learning Python "Th
 
 I’m looking to collaborate on... Nothing right now. I have some individual projects I want to start/finish, way too many.  
 I don't have the requisite skills to effectively collaborate with strangers right now - but I am working on it.<br/>
-Tell you what - Come to me with your project and If I feel capable of helping... I may. Keep in mind you're dealing with an arrogant, heartbroken, almost bottom-grade  	coder. Cynical android remember?
+Tell you what - Come to me with your project and If I feel capable of helping... I may. Keep in mind you're dealing with an arrogant, heartbroken, almost bottom-grade  coder. Cynical android remember?
 
 
 
 
-📫 How to reach me - s.perez.perilla@gmail.com - <br/><!--- or maybe you can send me a letter with one of those magical letter-delivering birds I keep hearing about. Maybe we can figure out what makes them magic. Once we do, we can bind the bird population into the global economy, I don't like those free-loaders eating worms off of private land. ---><br/> 
+📫 How to reach me - s.perez.perilla@gmail.com
 
 <!---
 SPerezPerilla/SPerezPerilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
