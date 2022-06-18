@@ -18,7 +18,7 @@ Tell you what - Come to me with your project and If I feel capable of helping...
 
 
 
-📫 How to reach me - s.perez.perilla@gmail.com - <!--- or maybe you can send me a letter with one of those magical letter-delivering birds I keep hearing about. Maybe we can figure out what makes them magic. Once we do, we can bind the bird population into the global economy, I don't like those free-loaders eating worms off of private land. /s ---><br/> 
+📫 How to reach me - s.perez.perilla@gmail.com - <br/><!--- or maybe you can send me a letter with one of those magical letter-delivering birds I keep hearing about. Maybe we can figure out what makes them magic. Once we do, we can bind the bird population into the global economy, I don't like those free-loaders eating worms off of private land. /s ---><br/> 
 
 <!---
 SPerezPerilla/SPerezPerilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
